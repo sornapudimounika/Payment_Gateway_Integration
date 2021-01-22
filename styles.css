@@ -92,7 +92,7 @@ button:hover{
     width: 100%;
     background-image: url(img/project.jpg);
     background-size: cover;
-    background-color: grey;
+    background-color: #000000;
     height: auto;
     background-position: center;
     background-repeat: no-repeat;
