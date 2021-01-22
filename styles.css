@@ -54,7 +54,7 @@ html{
      border:white;
      border-radius: 8px;
      padding: 14px;
-
+     margin-bottom: 0.7%;
  }
  #mid1{
      padding-right: 31px;
@@ -63,7 +63,7 @@ html{
 .btn{
     display: block;
     width: 63%;
-    margin: 0.7% auto;
+    margin: auto;
     font-size: 20px;
 
     cursor: pointer;
