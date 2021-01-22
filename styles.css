@@ -61,7 +61,9 @@ html{
  }
 
 .btn{
-
+    display: block;
+    width: 63%;
+    margin: 0.7% auto;
     font-size: 20px;
 
     cursor: pointer;
