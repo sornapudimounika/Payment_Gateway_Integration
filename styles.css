@@ -5,11 +5,11 @@ html{
 .body1 {
     margin: 0px;
     padding: 0px;
-    height: 100%;
+    width: 100%;
     background-image: url(img/home.jpg);
     background-size: cover;
     background-color: #cccccc;
-    height: 600px;
+    height: auto;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -89,11 +89,11 @@ button:hover{
 .body2 {
     margin: 0px;
     padding: 0px;
-    height: 100%;
+    width: 100%;
     background-image: url(img/project.jpg);
     background-size: cover;
     background-color: #cccccc;
-    height: 600px;
+    height: auto;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -144,10 +144,10 @@ li{
 .body3 {
     margin: 0px;
     padding: 0px;
-    height: 100%;
+    width: 100%;
     background-image: url(img/contact.jpg);
     background-color: #cccccc;
-    height: 700px;
+    height: auto;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
